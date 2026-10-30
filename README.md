@@ -12,7 +12,7 @@ Passary is a modern, realistic, production-style Desktop Password Manager built 
 - **Zero Plain-Text Storage:** Master password is never saved to disk.
 - **Memory Key Protection:** Derived encryption keys reside strictly in RAM and are wiped upon session lock or exit.
 - **Rate-Limited Login:** Protects against brute-force attacks with lockout timers.
-- **Configurable Auto-Lock:** Automatically locks the vault after a configurable period of inactivity (1 min, 5 min, 15 min, 30 min, or Never).
+- **Configurable Auto-Lock:** Automatically locks the vault after a configurable period of inactivity (1 min, 5 min, 15 min,or Never).
 
 ### 2. Encrypted Credential Vault
 - **AES Authenticated Encryption:** Passwords and sensitive notes are encrypted using **Fernet** (AES-128-CBC + HMAC-SHA256).
