@@ -61,7 +61,7 @@ PasswordManager/
 │
 ├── database/                  # SQLite persistence layer
 │   ├── database.py            # SQLite connection pool, schema, & CRUD queries
-│   └── models.py              # User, Credential, Settings data models
+│   └── models.py              # User, Credential, Settings data
 │
 ├── security/                  # Cryptography & Security layer
 │   ├── encryption.py          # PBKDF2 key derivation & Fernet encryption
