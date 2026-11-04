@@ -79,7 +79,7 @@ PasswordManager/
 │   └── settings.py            # Preferences, auto-lock, & re-encryption settings
 │
 └── utils/                     # Utility helpers
-    └── helpers.py             # Clipboard, date formatting, browser integration
+    └── helpers.py             # Clipboard, date formatting, 
 ```
 
 ---
